@@ -1,1 +1,1 @@
-echo <?php echo 'Hola'" > test.php
+echo <> test.php
