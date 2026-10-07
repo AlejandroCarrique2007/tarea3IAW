@@ -11,7 +11,7 @@ try {
         $user,
         $pass,
         [PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION]
-    );
+   
 
     echo "1. Conexión PDO correcta\n";
 
