@@ -84,5 +84,5 @@ try {
         PHP_EOL
     );
 
-    exit(1);
+    exit(1)
 }
